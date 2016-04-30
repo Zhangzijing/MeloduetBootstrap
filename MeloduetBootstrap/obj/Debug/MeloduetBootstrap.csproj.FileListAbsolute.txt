@@ -1,0 +1,10 @@
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\obj\Debug\MeloduetBootstrap.csprojResolveAssemblyReference.cache
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\obj\Debug\MeloduetBootstrap.Launcher.Windows.MainWindow.resources
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\obj\Debug\MeloduetBootstrap.Properties.Resources.resources
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\obj\Debug\MeloduetBootstrap.csproj.GenerateResource.Cache
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\bin\Debug\MeloduetBootstrap.exe.config
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\bin\Debug\MeloduetBootstrap.exe
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\bin\Debug\MeloduetBootstrap.pdb
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\obj\Debug\MeloduetBootstrap.exe
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\obj\Debug\MeloduetBootstrap.pdb
+N:\cs\projects\MeloduetBootstrap\MeloduetBootstrap\obj\Debug\MSPDT.Windows.InputForm.resources
